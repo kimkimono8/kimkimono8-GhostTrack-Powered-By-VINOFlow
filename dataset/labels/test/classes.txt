@@ -1,0 +1,4 @@
+mycar
+person
+car
+motorcycle

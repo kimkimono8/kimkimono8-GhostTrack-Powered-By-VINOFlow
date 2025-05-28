@@ -1,0 +1,6 @@
+# dataset.yaml สำหรับการเทรน YOLOv8
+train: T:/GhostTrack-Powered By VINOFlow/GhostTrack/dataset/images/train  # โฟลเดอร์เก็บภาพฝึก
+val: T:/GhostTrack-Powered By VINOFlow/GhostTrack/dataset/images/val    # โฟลเดอร์เก็บภาพทดสอบ
+
+nc: 4  # จำนวนคลาส
+names: ['mycar', 'person', 'car','motorcycle']  # รายชื่อคลาส
